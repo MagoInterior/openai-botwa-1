@@ -10,3 +10,7 @@
 
 ## Base usada:
 [https://github.com/rtwone/openai-botwa](https://github.com/rtwone/openai-botwa)
+
+## `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/openai-botwa-1)](https://repl.it/github/MagoInterior/openai-botwa-1) 
